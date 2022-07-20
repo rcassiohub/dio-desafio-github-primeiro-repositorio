@@ -1,0 +1,11 @@
+git init - cria-se um repositório   
+
+mv + "nome de um diretório" + ./"nome do diretório que deseja mover"
+
+git config --list - listar todas as congifurações do git
+
+git config --global --unset user.emaill: atualizando os dados de email 
+	**para mudar outros dados basta informar qual tipo de dado voce deseja mudar.
+	  neste caso foi o email(user.eamil)**	
+
+git remote add origin: adiciona o repositorio local
