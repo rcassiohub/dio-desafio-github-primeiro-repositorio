@@ -1,0 +1,9 @@
+nowrap: é o padrão, não permite a quabra de linha
+
+wrap: permite que a quebra de linha assim que um dos flex itens não puder
+mais ser compactado
+
+wrap-reverse: comportamento em pilha. permite que a quebra de linha
+assim que um dos flex itens não puder mais ser compactado, porém 
+na direção contrária da linha, acima.
+66

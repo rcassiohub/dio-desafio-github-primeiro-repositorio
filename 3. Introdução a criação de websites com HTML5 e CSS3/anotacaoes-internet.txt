@@ -1,0 +1,16 @@
+conjunto de capacidades, príncipios, ferramentas tecnológicos
+de um determinado ambiente;
+Lps;
+Conjuntos de softwere necessários e suficientes para
+executar um app/programa;
+
+Os líderes precisam saber sobre as informações de desenvolvimento
+Precisam saber as ferramentas disponíveis para operar;
+Ter conhecimento sobre as limitações;
+Estratégia de negócios;
+Maturidade
+
+
+-----------------------------------------------------------
+
+Algoritmo: conjunto de passos para realizar uma determinada operação

@@ -1,0 +1,78 @@
+Textos e links
+
+<h1>Título da página</h1>
+
+<h2>Título de seção</h2>
+
+<h3>Título do artigo</h3>
+
+<p>Conteúdo da página</p>
+
+<a>Link</a>
+
+<a href="google.com>Google</a>
+
+<a target="_blank">Link</a>
+
+<h1>-<h6>
+serve para dar mais semântica ao conteíudo da página. especificando, de forma coerente,
+a importância de cada texto apresentado, desde do título principal, até aos títulos ou subtítulos genéricos.
+Isso facilita na leitura e na localização de cada seção.
+
+<p></p>
+uma tag que representa o parágrafo. Tendo a função de carregar conteúdos da página, como:
+textos, vídeos, imagens, etc.
+
+<a></a>
+serve para atribuir links na página
+
+ela vem com alguns atributos, sendo os principais, o href e target"_blank".
+o primeiro é um atributo, na qual você redireciona um caminho de algum site, aplicação, para o usuário clicar.
+O segundo tem a função de, após ser clicado, ser redirecionado para uma novo página.
+
+atributo para email: <a>mailto:usuario@email.com</a>
+
+------------------------------------------------------------------------
+
+tag de imagem
+
+<img src="img/avatar.jpg">
+src: um caminho para redirecionar a imagem que você deseja colocar.
+*um atributo obrigatório*
+
+<img alt="foto de raphael cassio">
+alt: serve como uma descrição caso a imagem não carrega. e leitores de tela usam dessa descrição
+para mostrar aos usuários o que a imagem significa.
+*não obrigatório, mas extremamente recomendável*
+
+------------------------------------------------------------------------
+
+tag de listas
+
+serve para agrupar, em forma de lista, conjuntos de itens. 
+
+<ul>
+Item 1
+Item 2
+Lista na qual a ordem não importa
+
+<ol>
+1. Item 1
+2. Item 2
+Lista de forma ordenada
+
+
+<li>
+represente o item
+
+
+-------------------------------------------------------------------------
+
+
+padding: 20px 10px 
+-> primeiro valor "20px" representa as partes superior e inferior (eixo Y);
+-> o segundo valor "10px" representa as partes da esquerda e direita(eixo X);
+
+padding: 20px 10px 5px 0;
+-> 5px lado direito;
+-> 0 lado esquerdo
